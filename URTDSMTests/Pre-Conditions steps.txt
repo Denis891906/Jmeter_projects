@@ -1,0 +1,9 @@
+1. Start Go emualtor with file c37emulator_20150811 100stations_03jun15-NMS_a.ini
+2. Add input stream ID 14991 (port 8720) to the PDC UI.
+3. Add mode boundary 4 in the AppServer UI
+4. Add Measurement "ALMTY_TN.L.400ALMTYNCHNI1.HZ" as PDX1
+5. Enable PDX1 event
+6. Waited 3 minutes
+7. Enable magnitude event for "ALMTY_TN.L.400ALMTYNCHNI1.HZ"
+
+ 
